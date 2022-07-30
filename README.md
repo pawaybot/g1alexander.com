@@ -12,7 +12,7 @@ Version 3 - Portafolio para proyectos profesionales
 - Next.js
 - React.js
 - Tailwind CSS
-- MarkdownX
+- Markdown
 - Vercel
 
 ## Captura de pantalla
